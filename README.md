@@ -7,7 +7,7 @@ PHP, Laravel, And Vue.js </h2>
 <img src="img/img4.png" alt=""><br><br>
 <h3>Installation</h3>
 
-Clone the repo git clone https://github.com/rafihossain/projectLaravel.git
+Clone the repo git clone https://github.com/rafihossain/instagram-clone-project.git
 cd to project folder.
 
 1) Run composer install
