@@ -1,0 +1,4 @@
+db-name: epiz_24346685_laravel_project
+db-user: epiz_24346685
+db-pass: 
+db-host: sql311.epizy.com
