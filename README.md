@@ -1,5 +1,13 @@
-<h2>This is instagram clone project.this website is created by HTML, CSS, Bootstrap, 
-PHP, Laravel, And Vue.js </h2>
+<h2>Instagram Clone:</h2>
+<p>
+•	Follow and unfollow option.<br>
+•	Edit profile and change profile image.<br>
+•	resizing image's from scratch.<br>
+•	Add a new post with your one caption and choose your image.<br>
+•	logout, user, authentication and registration features.<br><br>
+Technology Used:<br>
+	Laravel, PHP, MySQl, Html, Css, Bootstrap, Vue.js.</p>
+
 <h3>Project Screenshot</h3>
 <img src="img/img1.png" alt=""><br><br>
 <img src="img/img2.png" alt=""><br><br>
